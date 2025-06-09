@@ -16,17 +16,17 @@
 - コンセプト: 伝統的な倉庫番（Sokoban）ゲームに「染色」の要素を加えたパズルゲーム
 - 📄 [紹介ページを見る](https://github.com/Hez0618/ColorPush)
 - ▶️ プレイ動画：
-- 使用言語: **Unity(C#)**
-- 制作人数：**1人**
+- **使用言語**: Unity(C#)
+- **制作人数**：1人
 
 ---
 
 ### プログラミング作品: ScriptedSimulation (NPC行動シミュレーション)
 > Live snapshots of simulation output, memory logs, and character interaction.  
 - ![ScriptedSimulation](image/ScriptedSimulationShot.png)
-- コンセプト:生成AIとスクリプトの組み合わせで、シナリオ(マーダーミステリ)に基づき、NPCの行動や対話を自動生成するシステム
+- **コンセプト**:生成AIとスクリプトの組み合わせで、シナリオ(マーダーミステリ)に基づき、NPCの行動や対話を自動生成するシステム
 - 📄 [紹介ページを見る](https://github.com/Hez0618/ScriptedSimulation)
-- 使用言語: **Python**, **OpenAI API(ChatGPT)**
-- 制作人数：**1人**
+- **使用言語**: Python, OpenAI API(ChatGPT)
+- **制作人数**：1人
 
 ---
