@@ -11,7 +11,7 @@
 ---
 
 ### ゲーム作品: ColorPush
-- ![ColorPush](image/ColorPushShot.png)
+- <img src="image/ColorPushShot.png" width="300" height="300"/>
 - コンセプト: 
 - 📄 [紹介ページを見る](https://github.com/Hez0618/ColorPush)
 - 使用言語: **Unity(C#)**
