@@ -17,7 +17,7 @@
 
 - **コンセプト**: 伝統的な倉庫番（Sokoban）ゲームに「染色」の要素を加えたパズルゲーム  
 - 📄 [紹介ページを見る](https://github.com/Hez0618/ColorPush)  
-- ▶️ **プレイ動画**：(https://www.youtube.com/watch?v=weSd4Wq2lgI)
+- ▶️ **プレイ動画**：https://www.youtube.com/watch?v=weSd4Wq2lgI
 - 🔗 **ダウンロード**：[Windows版をダウンロード](https://github.com/Hez0618/ColorPush/releases)
 - **使用言語**: Unity（C#）  
 - **制作人数**: 1人
