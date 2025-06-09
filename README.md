@@ -11,13 +11,15 @@
 
 ---
 
-### ゲーム作品: ColorPush
+### 🎮 ゲーム作品: ColorPush
+
 <img src="image/ColorPushShot.png" width="300" height="300"/>
-- コンセプト: 伝統的な倉庫番（Sokoban）ゲームに「染色」の要素を加えたパズルゲーム
+
+- **コンセプト**: 伝統的な倉庫番（Sokoban）ゲームに「染色」の要素を加えたパズルゲーム  
 - 📄 [紹介ページを見る](https://github.com/Hez0618/ColorPush)  
-- ▶️ **プレイ動画**：[YouTubeで見る](https://youtu.be/動画ID) ←※URLを挿入してください   
-- **使用言語**: Unity(C#)  
-- **制作人数**：1人  
+- ▶️ **プレイ動画**：[YouTubeで見る](https://youtu.be/動画ID) ←※URLを挿入してください  
+- **使用言語**: Unity（C#）  
+- **制作人数**: 1人
 
 ---
 
