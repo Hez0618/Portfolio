@@ -27,7 +27,7 @@
 ### プログラミング作品: ScriptedSimulation (NPC行動シミュレーション)
 > Live snapshots of simulation output, memory logs, and character interaction.  
 - ![ScriptedSimulation](image/SampleOutput.png)
-- **コンセプト**:生成AIとスクリプトの組み合わせで、シナリオ(マーダーミステリ)に基づき、NPCの行動や対話を自動生成するシステム
+- **コンセプト**: 生成AIとスクリプトの組み合わせで、シナリオ(マーダーミステリ)に基づき、NPCの行動や対話を自動生成するシステム
 - 📄 [紹介ページを見る](https://github.com/Hez0618/ScriptedSimulation)
 - **使用言語**: Python, OpenAI API(ChatGPT)
 - **制作人数**：1人（教授の指導あり）
