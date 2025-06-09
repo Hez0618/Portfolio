@@ -45,6 +45,7 @@
 
 <img src="image/MistValleyMenu.png" width="500" height="300"/>
 <img src="image/MistValleyLoading.png" width="500" height="300"/>
+<img src="image/MistValleyBattleScene.png" width="500" height="300"/>
 
 **ジャンル**：カードゲーム  
 **エンジン**：Unity  
