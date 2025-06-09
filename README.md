@@ -43,8 +43,8 @@
 
 ### ゲーム作品企画: Mist Valley
 
-<img src="image/MistValleyMenu.png" width="400" height="300"/>
-<img src="image/MistValleyLoading.png" width="400" height="300"/>
+<img src="image/MistValleyMenu.png" width="450" height="300"/>
+<img src="image/MistValleyLoading.png" width="450" height="300"/>
 
 **ジャンル**：カードゲーム  
 **エンジン**：Unity  
@@ -58,7 +58,7 @@
 
 ### ゲーム作品企画: NEOgears
 
-<img src="image/NEOgearsBattleScene.png" width="400" height="300"/>
+<img src="image/NEOgearsBattleScene.png" width="450" height="300"/>
 
 **ジャンル**：トップダウン・シューティング 
 **エンジン**：Unity
