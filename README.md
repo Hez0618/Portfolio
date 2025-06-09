@@ -11,7 +11,7 @@
 
 ---
 
-### 🎮 ゲーム作品: ColorPush
+### ゲーム作品: ColorPush
 
 <img src="image/ColorPushShot.png" width="300" height="300"/>
 
