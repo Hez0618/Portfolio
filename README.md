@@ -12,7 +12,7 @@
 - 使用言語: **Unity(C#)**
 
 ### プログラミング作品: ScriptedSimulation (NPC行動シミュレーション)
-- ![ColorPush](image/ScriptedSimulationShot.png)
+- ![ScriptedSimulation](image/ScriptedSimulationShot.png)
 - 📄 [紹介ページを見る](https://github.com/Hez0618/ScriptedSimulation)
 - 使用言語: **Python**, **OpenAI API(ChatGPT)**
 
